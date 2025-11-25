@@ -1,0 +1,3 @@
+Đây là project bài tập lớn
+
+Lực lượng An ninh nhân dân là lực lượng nòng cốt, có nhiệm vụ đấu tranh làm thất bại mọi âm mưu và hoạt động xâm phạm an ninh quốc gia, bảo vệ chế độ xã hội chủ nghĩa, bảo vệ Đảng, bảo vệ chính quyền, bảo vệ các lực lượng vũ trang và bảo vệ nhân dân.
